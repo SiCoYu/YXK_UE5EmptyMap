@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/UE5EmptyMap/Saved
+/UE5EmptyMap/.vs
+/UE5EmptyMap/DerivedDataCache
+/UE5EmptyMap/Intermediate
+/UE5EmptyMap/UE5EmptyMap.sln
